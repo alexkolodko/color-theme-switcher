@@ -1,2 +1,2 @@
-# color-theme-switcher
-Color theme switcher (light/auto/dark)
+# Color theme switcher
+Based on Vadim Makeev method
